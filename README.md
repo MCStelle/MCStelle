@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MCStelle
+- 👋 Hi, I’m @MariStelle
 - 👀 I’m interested in  aprender a utilizar o GitHub para programar e desenolvolver arquivos
 - 🌱 I’m currently learning  a programar jogos no Scratc e Javascript
 - 💞️ I’m looking to collaborate on ...
